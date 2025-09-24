@@ -19,7 +19,7 @@
 - **Tecnologías:** HTML, CSS, JS  
 - **Descripción:** Sitio dinámico para gestionar adopciones y rescates de mascotas.  
 - **Proyecto:** Facultad-TPE-WebI  
-- **Link:** [Repositorio del proyecto](https://GermanHernandez23.github.io/tpe_web1/) 
+- **Link:** [Repositorio del proyecto](https://github.com/GermanHernandez23/tpe_web1/) 
 
 ### Gestor de Turnos de Cancha de Pádel 🗄️
 - **Tipo:** Sistema de gestión de turnos  
