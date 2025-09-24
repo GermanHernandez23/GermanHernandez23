@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Contacto
-- Email: [germanhernandez2006@gmail.com](mailto:germanhernandez2006@gmail.com)  
+- Email: [Enviar correo a germanhernandez2006@gmail.com](https://mail.google.com/mail/?view=cm&to=germanhernandez2006@gmail.com)  
 - LinkedIn: [linkedin.com/in/germanhernandez](https://www.linkedin.com/in/germ%C3%A1n-hern%C3%A1ndez-637435339/)  
 - Portfolio: [tu-link-de-portfolio](https://tusitio.com)  
 
