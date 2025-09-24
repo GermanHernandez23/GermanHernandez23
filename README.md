@@ -19,21 +19,21 @@
 - **Tecnologías:** HTML, CSS, JS  
 - **Descripción:** Sitio dinámico para gestionar adopciones y rescates de mascotas.  
 - **Proyecto:** Facultad-TPE-WebI  
-- **Link:** [Ver proyecto](https://github.com/germanhernandez/mascotandil)  
+- **Link:** [Repositorio del proyecto](https://github.com/GermanHernandez23/tpe_web1) 
 
 ### Gestor de Turnos de Cancha de Pádel 🗄️
 - **Tipo:** Sistema de gestión de turnos  
 - **Tecnologías:** HTML, CSS, JS, PHP, MySQL  
 - **Descripción:** Página web para gestionar reservas y turnos de canchas de pádel, con base de datos dinámica para control de horarios y usuarios.  
 - **Proyecto:** Facultad-TPE-WebII
-- **Link:** [Ver proyecto](https://github.com/germanhernandez/proyecto-bd)  
+- **Link:** [Repositorio del proyecto](https://github.com/germanhernandez/tpe_web2)  
 
 ### CV / Portafolio 💼
 - **Tipo:** Página web de presentación personal  
 - **Tecnologías:** HTML, CSS, JS  
 - **Descripción:** Curriculum y portfolio interactivo para mostrar habilidades y proyectos profesionales.  
 - **Proyecto:** Propio  
-- **Link:** [Ver proyecto](https://github.com/germanhernandez/cv-portfolio)  
+- **Link:** [Repositorio del proyecto](https://github.com/germanhernandez/cv-portfolio)  
 
 ### Chatbot Clínica Dr. Appiani 🤖
 - **Tipo:** Asistente Virtual / Chatbot  
